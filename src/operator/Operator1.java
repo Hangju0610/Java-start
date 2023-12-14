@@ -30,6 +30,6 @@ public class Operator1 {
 
         // / by zero 에러 출력
         // 수학적으로 허용되지 않기 때문에
-//        int z = 10 / 0;
+        // int z = 10 / 0;
     }
 }
